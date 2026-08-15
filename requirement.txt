@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib.pyplot
+openpyxl
+SpeechRecognition
+google-genai
